@@ -1,3 +1,29 @@
 // Place all the styles related to the members controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.main-menu-container {}
+
+.main-menu {
+    padding: 100px 40px 0 40px;
+    position: fixed;
+    border-right: solid 1px #eeeeee;
+    height: 100%;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 80px;
+}
+
+main {
+    padding: 100px 40px 0 100px;
+}
+
+.members-avatar {
+    width: 100%;
+    height: 254px;
+}
+
+.member-card-fix {
+    width: 200px;
+}
